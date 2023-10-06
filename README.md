@@ -18,13 +18,13 @@ git clone https://github.com/meenakshiar/skill-tank-assignment.git
 npm install
 ```
 
-4. Go to the frontend folder Run the project in production mode
+3. Go to the frontend folder Run the project in production mode
 
 ```
 npm run start
 ```
 
-5. Go to the server folder Run 
+4. Go to the server folder Run 
 
 ```
 npm run server
