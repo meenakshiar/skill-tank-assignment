@@ -2,7 +2,7 @@
 
 ## Demo :movie_camera:
 
-- Deployed Link for Ntwist clone: []
+- Deployed Link for Ntwist clone: [https://frontend-meenakshiar.vercel.app/]
   
 # Installation :
 
